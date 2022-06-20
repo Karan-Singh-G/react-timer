@@ -1,0 +1,27 @@
+.tododiv{
+  width: 50%;
+  
+  border: 1px solid black;
+  margin: auto;
+  margin-top: 40px;
+  background-color: aliceblue;
+}
+.tododiv>input{
+    width: 250px;
+    height: 30px;
+    border-radius: 8px;
+    border: 0px solid transparent;
+    text-align: center;
+    font-family: sans-serif;
+  
+}
+.tododiv>button{
+    height: 36px;
+    width: 34px;
+    border: 0px solid transparent;
+    margin-left: 10px;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
